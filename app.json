@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "390bc05f-ba9c-4f28-91a1-a76ed93b2884"
+      }
+    },
+    "owner": "lebzathegr8t"
   }
 }
